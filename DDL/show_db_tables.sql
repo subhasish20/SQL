@@ -1,3 +1,0 @@
-USE practice;
-
-SHOW TABLES;

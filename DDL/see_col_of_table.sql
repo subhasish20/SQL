@@ -1,5 +1,0 @@
-USE practice;
-
-
-
-DESCRIBE users;

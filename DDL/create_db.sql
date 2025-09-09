@@ -1,7 +1,0 @@
--- IT WILL CREATE A DATABASE HAVING NAME practice
-
-CREATE DATABASE practice;
-
-
-
-
