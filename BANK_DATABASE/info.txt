@@ -1,0 +1,2 @@
+database name = bank_info
+table_name = bank_employees
