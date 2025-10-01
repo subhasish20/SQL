@@ -1,0 +1,7 @@
+CREATE TABLE Employees (
+    Employee_ID INT PRIMARY KEY AUTO_INCREMENT,
+    Name VARCHAR(100) NOT NULL,
+    Role VARCHAR(50) NOT NULL,
+    Branch_ID INT,
+    FOREIGN KEY (Branch_ID) REFERENCES Branches(Branch_ID)
+);

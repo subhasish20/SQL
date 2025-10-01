@@ -1,0 +1,5 @@
+CREATE TABLE Branches (
+    Branch_ID INT PRIMARY KEY AUTO_INCREMENT,
+    Branch_Name VARCHAR(100) NOT NULL,
+    Location VARCHAR(100) NOT NULL
+);
